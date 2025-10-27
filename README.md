@@ -3,7 +3,7 @@
 Repositorio oficial del equipo **ISO25-ISO2-3B2** de la asignatura **Ingeniería del Software II**.  
 Toda la información del proyecto (documentación, desarrollo, entregas y más) está disponible en nuestra **[Wiki del Proyecto](https://github.com/Anexosx/ISO25-ISO2-3b2/wiki)**.
 
-[![Ver Wiki](https://img.shields.io/badge/📚_Acceder_a_la_Wiki-2D9BF0?style=for-the-badge)](https://github.com/Anexosx/ISO25-ISO2-3b2/wiki)
+[![Ver Wiki](https://img.shields.io/badge/📚_Acceder_a_la_Wiki-lightgrey?style=flat)](https://github.com/Anexosx/ISO25-ISO2-3b2/wiki)
 
 ---
 
