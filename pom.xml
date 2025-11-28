@@ -10,7 +10,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>Cliente</module>
-        <module>Servidor</module>
     </modules>
 
     <properties>
