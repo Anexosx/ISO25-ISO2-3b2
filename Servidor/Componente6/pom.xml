@@ -7,10 +7,11 @@
         <groupId>org.example</groupId>
         <artifactId>ISO25-ISO2-3b2</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <groupId>org.servidor</groupId>
-    <artifactId>Servidor</artifactId>
+    <groupId>org.componente6</groupId>
+    <artifactId>Componente6</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
