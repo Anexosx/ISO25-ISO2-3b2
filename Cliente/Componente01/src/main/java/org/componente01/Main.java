@@ -1,4 +1,4 @@
-﻿package org.componente01;
+package org.componente01;
 
 public class Main {
     public static void main(String[] args) {
