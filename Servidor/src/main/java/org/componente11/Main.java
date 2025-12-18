@@ -1,4 +1,4 @@
-﻿package org.componente11;
+package org.componente11;
 
 public class Main {
     public static void main(String[] args) {
