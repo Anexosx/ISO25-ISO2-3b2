@@ -1,4 +1,4 @@
-package org.componente02;
+package main.java.org.componente02;
 
 public class Main {
     public static void main(String[] args) {
