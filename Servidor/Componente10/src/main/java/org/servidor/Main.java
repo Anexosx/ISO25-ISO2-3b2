@@ -1,4 +1,4 @@
-package org.servidor;
+package main.java.org.servidor;
 
 public class Main {
     public static void main(String[] args) {
