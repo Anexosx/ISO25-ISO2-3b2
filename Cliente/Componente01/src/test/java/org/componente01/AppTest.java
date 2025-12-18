@@ -1,4 +1,4 @@
-package es.UCLM.esi.ISO2.C01.Dominio;
+package org.componente01;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
