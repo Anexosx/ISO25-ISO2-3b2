@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Cliente</module>
+        <module>Cliente/Componente09Cliente</module>
         <module>Cliente/Componente04Cliente</module>
         <module>Cliente/Componente03Cliente</module>
     </modules>
