@@ -11,6 +11,8 @@
     <modules>
         <module>Servidor</module>
         <module>Servidor/componente03server</module>
+        <module>Servidor/Componente02</module>
+        <module>Servidor/Componente01</module>
     </modules>
 
     <properties>
