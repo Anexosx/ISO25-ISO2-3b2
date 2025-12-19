@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Servidor</module>
+        <module>Servidor/Componente10</module>
         <module>Servidor/Componente6</module>
         <module>Servidor/componente03server</module>
         <module>Servidor/Componente02</module>
